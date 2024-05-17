@@ -53,6 +53,7 @@ This dataset, provided by PwC Switzerland's Virtual Internship Program through F
 
 4. **Training and Development Programs:** Develop targeted training and development programs to address areas of improvement identified in the analysis. Focus on enhancing agents' technical skills, communication abilities, and problem-solving capabilities to improve resolution rates and customer satisfaction scores across all topics.
 
+### Dashboard:
 ### Trend Analysis:
 ![Trend Analysis](https://github.com/ChellalakshmiV/Call_Center_Analysis/assets/162456368/69ad92c5-7bf6-48eb-94db-52011419f158)
 

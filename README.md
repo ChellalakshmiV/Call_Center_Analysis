@@ -45,13 +45,17 @@ This dataset, provided by PwC Switzerland's Virtual Internship Program through F
 - At 13:00, 11:00, and 17:00, call volumes reach their peaks.
 
 ### Recommendations:
-1. **Agent Performance Optimization:** Identify top-performing agents such as Dan, Joe, and Becky who exhibit high resolution rates. Recognize their effective strategies and practices and disseminate them across the team. For agents with longer average handling times like Dan and Jim, provide targeted training sessions to enhance efficiency without compromising resolution quality.
 
-2. **Topic-based Resource Allocation:** Allocate resources based on call topic trends. Since streaming, Contract-related, and Admin Support calls show quicker resolution times, consider assigning more agents or specialized teams to handle these topics. For topics like Technical Support and Payment-related queries, focus on improving resolution processes and agent training to reduce unresolved cases.
+1. **Identify and Disseminate Best Practices:** Recognize top-performing agents like Dan, Joe, and Becky. Increase their involvement in team training sessions by 5% to share their effective strategies with peers.
+For agents with longer average handling times such as Dan and Jim, implement targeted training programs. Allocate an additional 3% of the training budget to enhance efficiency while maintaining high resolution quality.
 
-3. **Peak Hour Optimization:** Utilize insights on peak hours, such as 13:00, 11:00, and 17:00, to optimize agent scheduling. Ensure that staffing levels are adequately increased during these periods to minimize wait times and improve customer satisfaction. Implement flexible scheduling options or incentivize agents to work during peak hours to meet demand effectively.
+2. **Resource Allocation Based on Call Trends:** Assign more agents or specialized teams to handle streaming, contract-related, and admin support calls. Increase resource allocation by 5% for these areas to maintain quick resolution times. For technical support and payment-related queries, allocate an additional 7% of resources to improve resolution processes and enhance agent training. This investment should focus on advanced troubleshooting and customer handling skills.
 
-4. **Training and Development Programs:** Develop targeted training and development programs to address areas of improvement identified in the analysis. Focus on enhancing agents' technical skills, communication abilities, and problem-solving capabilities to improve resolution rates and customer satisfaction scores across all topics.
+3. **Optimizing Agent Scheduling:** Utilize insights on peak hours (13:00, 11:00, and 17:00) to optimize agent scheduling. Increase staffing levels by 5% during these periods to minimize wait times and improve customer satisfaction. Implement flexible scheduling options and incentivize agents with a 5% bonus for working during peak hours. This approach ensures adequate coverage and meets demand effectively.
+
+4. **Targeted Training and Development:** Develop targeted training and development programs to address identified improvement areas. Increase the training budget by 5% to focus on enhancing agents' technical skills, communication abilities, and problem-solving capabilities. Allocate 3% more resources towards continuous improvement initiatives, such as regular training updates and performance feedback loops, to ensure sustained growth and improvement in resolution rates and customer satisfaction scores.
+   
+By implementing these practical percentage-based strategic changes, the call center can enhance performance, optimize resource allocation, and improve overall efficiency and customer satisfaction in a realistic and sustainable manner.
 
 ### Dashboard:
 ### Trend Analysis:

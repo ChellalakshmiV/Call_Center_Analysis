@@ -3,6 +3,8 @@
 ### Project Overview:
 The aim of the call center analysis project in Power BI is to evaluate key performance metrics, including total calls, answered calls, rejected calls, issue resolution rates, and customer satisfaction scores. By examining these metrics by topic, the project seeks to identify areas for improvement and enhance operational efficiency.Utilizing Power BI's powerful visualization capabilities, this project intends to deliver actionable insights to optimize staffing levels, refine training programs, and improve customer service processes, ultimately enhancing overall performance and customer experience.
 
+Live Dashboard: [Project link](https://app.powerbi.com/view?r=eyJrIjoiMDk1ZDMwN2UtZjMzYy00NDYwLWI5YzEtYmI3MDk0MzZjZmYyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ### Data Sources:
 This dataset, provided by PwC Switzerland's Virtual Internship Program through Forage, contains call records from a customer service center. Each row represents an individual call and includes attributes such as Call ID, Agent, Date, Time, Topic, whether the call was Answered (Yes/No), Resolved status, Speed of Answer in seconds, and Average Talk Duration.
 

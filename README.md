@@ -5,6 +5,7 @@ The aim of the call center analysis project in Power BI is to evaluate key perfo
 
 ### Exploring Links:
 Explore the Live Dashboard: [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDk1ZDMwN2UtZjMzYy00NDYwLWI5YzEtYmI3MDk0MzZjZmYyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Explore the Presentation Video: [Presentation video](https://www.linkedin.com/posts/chellalakshmi_pwcswitzerland-pwc-internship-activity-7203280199256317952-BAba?utm_source=share&utm_medium=member_desktop)
 
 ### Data Sources:
 This dataset, provided by PwC Switzerland's Virtual Internship Program through Forage, contains call records from a customer service center. Each row represents an individual call and includes attributes such as Call ID, Agent, Date, Time, Topic, whether the call was Answered (Yes/No), Resolved status, Speed of Answer in seconds, and Average Talk Duration.
